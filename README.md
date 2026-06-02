@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweetest-moments/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Sweetest Moments](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetest-moments/) |
+| **Get License** | [Obtain a Music License for Sweetest Moments](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetest-moments/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pulling you close where the shadows fall
+> Whispering words that you hear through it all
+> Fingers are tracing the edge of your skin
+> This is the moment where we both give in
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
