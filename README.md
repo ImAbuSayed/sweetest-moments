@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweetest-moments/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Sweetest Moments](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetest-moments/) |
+| **Get License** | [Get License For Sweetest Moments](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetest-moments/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c1753bd9966c2f5e081391dd4460ca5198cfcb7234e18de79fc1b59572ff7134` |
 | **Timestamp** | June 02, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
